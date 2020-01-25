@@ -58,13 +58,13 @@ Performance considerations
 - Very useful in identity cases
 ```
 
-####Cipher
+#### Cipher
 - Engine to provide encryption
 - Asymmetric and symmetric encryption support
 - Stream and block ciphers
 - padding on block ciphers
 
-####Stores
+#### Stores
 ```
 - keystore: store keys
 - Truststore: used to store certificate
@@ -84,7 +84,7 @@ Performance considerations
 - certificate trusts
 ```
 
-####Cryptography Hash
+#### Cryptography Hash
 - hash function that takes arbitrary input and produces fixed-sized output
 - Easy to calculate
 - Difficult to find original input
